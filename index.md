@@ -1,4 +1,4 @@
-# Project Portfolio
+# Angelos Tsiatsis Project Portfolio
 
 ## Web projects
 
