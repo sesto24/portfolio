@@ -1,3 +1,10 @@
+---
+title: Angelos Tsiatsis Project Portfolio
+nav: index
+navMenu: false
+toc: 3
+---
+
 # Angelos Tsiatsis Project Portfolio
 
 ## Web projects
